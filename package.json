@@ -1,3 +1,7 @@
+"scripts": {
+  "start": "node index.js"
+},
+
 {
   "name": "hello-app",
   "private": true,
